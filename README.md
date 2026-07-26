@@ -1,134 +1,194 @@
 # Hi, I'm Ayman Amjad 👋
 
-## AI Automation Specialist | n8n Developer | AI Workflow Builder
+## Software Engineer | AI Automation Specialist | AI-Powered Solutions
 
-I build AI-powered business automation solutions using modern automation platforms and large language models.
+I am a Software Engineer with a Bachelor's degree in Software Engineering, specializing in AI automation, workflow systems, API integrations, and intelligent software solutions.
 
-My focus is helping businesses automate repetitive processes, streamline operations, and improve customer experiences with AI.
-
----
-
-## 🚀 What I Do
-
-- AI Workflow Automation
-- n8n Development
-- AI Agents
-- CRM Automation
-- Lead Management
-- Appointment Scheduling
-- Customer Support Automation
-- Resume Screening
-- AI Content Generation
-- API Integrations
-- Webhooks
-- Voice AI
+I combine software engineering principles with modern AI tools to build automation systems that help businesses reduce manual work, improve efficiency, and streamline operations.
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 What I Do
 
-### Automation
+🤖 AI Automation & AI Agents  
+⚙️ Business Workflow Automation  
+🔗 API Integrations & Webhooks  
+📊 CRM & Lead Management Automation  
+💻 Software Development Solutions  
+🧠 AI-Powered Applications  
+
+---
+
+# 🛠️ Technical Skills
+
+## AI & Automation
 
 - n8n
-- Airtable
-- HubSpot
-- Google Workspace
-- Twilio
-- Vapi
-
-### AI
-
-- Google Gemini
-- OpenAI
+- Zapier
+- Make
+- OpenAI API
+- Google Gemini API
+- Claude API
+- AI Agents
 - Prompt Engineering
+- RAG Systems
 
-### APIs
 
-- REST APIs
-- HTTP Requests
-- Webhooks
-- JSON
-
-### Languages
+## Programming & Development
 
 - JavaScript
+- Node.js
+- Python
+- SQL
+- REST APIs
+- Backend Development
+- Object-Oriented Programming
+- Software Architecture
+
+
+## Databases & Tools
+
+- Airtable
+- Firebase
+- PostgreSQL
+- MySQL
+- Google Sheets
+- Git & GitHub
+
+
+## Integrations
+
+- REST API Integration
+- Webhooks
+- Gmail API
+- Slack API
+- CRM Integrations
 
 ---
 
-## ⭐ Featured Projects
+# 💼 Featured Projects
 
-### AI Lead Qualification System
+## 🤖 AI Lead Qualification System
 
-Automatically scores and qualifies incoming leads using AI.
+An AI-powered workflow that automatically analyzes incoming leads, evaluates their quality, categorizes prospects, stores data, and notifies sales teams.
 
----
+**Tech Stack:**
 
-### AI CRM Automation
+- n8n
+- Google Gemini AI
+- Airtable
+- Gmail
+- Slack
 
-Synchronizes customer information and automates CRM workflows.
-
----
-
-### AI Appointment Reminder System
-
-Uses Google Calendar, AI, Airtable, and Voice AI to automate appointment reminders.
 
 ---
 
-### AI Resume Screening System
+## 📅 AI Customer Booking Assistant
 
-Screens resumes using AI and ranks candidates automatically.
+An AI-powered booking automation system that manages customer requests, scheduling, and notifications.
 
----
+**Tech Stack:**
 
-### AI Support Ticket Classifier
+- n8n
+- AI APIs
+- Workflow Automation
+- Calendar Integration
 
-Receives support tickets through Webhooks and classifies them with AI before routing them automatically.
-
----
-
-### AI Appointment Booking Assistant
-
-Automates customer booking workflows.
 
 ---
 
-### AI Customer Support Assistant
+## 👥 AI Recruitment Assistant
 
-AI-powered support workflow for customer inquiries.
+An AI recruitment workflow that automates candidate screening and helps companies improve hiring processes.
+
+**Tech Stack:**
+
+- AI Models
+- Automation Workflows
+- Data Processing
+
 
 ---
 
-### AI Social Media Content Generator
+## 📞 AI Voice Agent
 
-Automatically generates social media content using AI.
+An AI-powered voice assistant that can interact with users through natural conversations, answer queries, collect information, and automate customer communication.
+
+**Use Cases:**
+
+- Customer support automation
+- Lead capture
+- Appointment scheduling
+- Business inquiries
+
+**Tech Stack:**
+
+- AI Voice Models
+- Speech-to-Text
+- Text-to-Speech
+- APIs
+- Automation Workflows
+
 
 ---
 
-## 📚 Currently Learning
+## 📱 AI Social Media Content Generator
+
+An AI system that automates social media content creation, generating posts, captions, and marketing ideas.
+
+**Tech Stack:**
+
+- n8n
+- AI APIs
+- Content Automation
+
+
+---
+
+# 🎓 Education
+
+## Bachelor of Science in Software Engineering
+
+Focused on:
+
+- Software Development
+- Database Systems
+- Algorithms & Data Structures
+- Software Architecture
+- Application Development
+
+
+---
+
+# 🎯 My Mission
+
+I help businesses leverage AI and automation to:
+
+✅ Reduce repetitive tasks  
+✅ Save time and operational costs  
+✅ Improve customer workflows  
+✅ Build smarter business systems  
+
+
+---
+
+# 📚 Currently Learning
 
 - Advanced AI Agents
-- Multi-Agent Systems
-- MCP
-- Voice AI
-- Enterprise Automation
+- Retrieval Augmented Generation (RAG)
+- Vector Databases
+- Advanced API Integrations
+
 
 ---
 
-## 📫 Connect With Me
+# 📫 Contact
 
-GitHub
+📧 Email: aymanamjad09541@gmail.com
 
+🔗 GitHub:
 https://github.com/Ayman-A7
 
-LinkedIn
-
-(Coming Soon)
-
-Upwork
-
-(Coming Soon)
-
 ---
 
-⭐ I'm actively building AI automation solutions and continuously expanding my portfolio.
+⭐ Explore my repositories to see AI automation systems and software solutions.
