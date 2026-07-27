@@ -17,7 +17,7 @@ I build AI-powered automation systems — lead qualification, booking, customer 
 | [AI Customer Support Assistant](https://github.com/Ayman-A7/ai-customer-support-assistant) | Support inbox response times are slow | n8n, Gemini, Gmail, Airtable |
 | [AI Social Media Content Generator](https://github.com/Ayman-A7/ai-social-media-content-generator) | Content creation is a full-time bottleneck | n8n, Gemini, Airtable, Slack |
 
-*(Each repo README includes a full breakdown — workflow diagram, screenshots, and demo video.)*
+*(Each repo README includes a full breakdown — workflow diagram and screenshots.)*
 
 ---
 
